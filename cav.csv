@@ -1,0 +1,189 @@
+Cable,Segment,Model Length,Asbuilt Length,Trench,Issue,comments
+3NES-68-01-HDL-0045,3NES-68-01-HDL-0045,14.66,14.65,-,No Trench/Strand for segment,no trench in Teighteen
+15006465108,15006465108,22.35,22.35,-,No Trench/Strand for segment,no trench in Teighteen
+15022304265,15022304265,12.96,12.96,-,No Trench/Strand for segment,no trench in Teighteen
+15022330227,15022330227,14.34,14.33,-,No Trench/Strand for segment,no trench in Teighteen
+15022304725,15022304725,13.01,13,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0122,3NES-68-01-HDL-0122,13.68,13.67,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0213,3NES-68-01-HDL-0213,14.33,19,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0266,3NES-68-01-HDL-0266,30.69,14,-,No Trench/Strand for segment,no trench in Teighteen
+212313048,212313048,22.24,21,-,No Trench/Strand for segment,other tech
+3NES-68-01-HDL-0067,3NES-68-01-HDL-0067,15.11,15.11,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0117,3NES-68-01-HDL-0117,15.04,15.03,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0027,3NES-68-01-HDL-0027,13.19,12.32,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0242,--,27.04,38.1,Third Party Pit 000000000200349904,"Unable to match cable and trench/strand end points, check the cable and trench/strand and revalidate",end at vsp
+3NES-68-01-HDL-0174,3NES-68-01-HDL-0174,7.61,28,-,No Trench/Strand for segment,no trench in Teighteen
+15006456792,15006456792,12.32,12.32,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0104,3NES-68-01-HDL-0104,14.81,14.81,-,No Trench/Strand for segment,no trench in Teighteen
+15006456503,15006456503,13.02,13.02,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0141,3NES-68-01-HDL-0141,15.11,0,-,No Trench/Strand for segment,zero length
+3NES-68-01-HDL-0091,3NES-68-01-HDL-0091,16.47,12.54,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0146,3NES-68-01-HDL-0146,15.45,15.44,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0072,3NES-68-01-HDL-0072,13.99,13.99,-,No Trench/Strand for segment,no trench in Teighteen
+15006456303,15006456303,13.04,13.03,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0083,3NES-68-01-HDL-0083,14.62,0,-,No Trench/Strand for segment,zero length
+15006455700,15006455700,15.82,15.81,-,No Trench/Strand for segment,no trench in Teighteen
+15019284060,--,25.8,26,Third Party Pit 000000012503605423,"Unable to match cable and trench/strand end points, check the cable and trench/strand and revalidate",end at vsp
+15006456630,15006456630,14.5,14.49,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0087,3NES-68-01-HDL-0087,15.28,15.28,-,No Trench/Strand for segment,no trench in Teighteen
+12505348148,--,49.21,48.5,-,"No path between start and end nodes, missing trench/strand assignments",updated
+3NES-68-01-HDL-0150,3NES-68-01-HDL-0150,12.33,12.32,-,No Trench/Strand for segment,no trench in Teighteen
+15006465100,15006465100,14.96,14.96,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0021,3NES-68-01-HDL-0021,12.33,12.32,-,No Trench/Strand for segment,no trench in Teighteen
+15020127018,15020127018,14.63,14.62,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0014,3NES-68-01-HDL-0014,15.58,15.57,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-322,3NES-68-01-HDL-322,30.67,31.79,-,No Trench/Strand for segment,no trench in Teighteen
+15006465064,15006465064,18.81,14.86,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0070,3NES-68-01-HDL-0070,16.48,16.48,-,No Trench/Strand for segment,no trench in Teighteen
+15022330400,15022330400,13.19,14.94,-,No Trench/Strand for segment,no trench in Teighteen
+15006456675,15006456675,14.53,14.53,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0124,3NES-68-01-HDL-0124,12.31,12.31,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0098,3NES-68-01-HDL-0098,15.74,0,-,No Trench/Strand for segment,zero length
+3NES-68-01-HDL-0003,3NES-68-01-HDL-0003,14.76,14.76,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0128,3NES-68-01-HDL-0128,15.82,15.81,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0220,3NES-68-01-HDL-0220,4.95,10,-,No Trench/Strand for segment,no trench in Teighteen
+15014312757,15014312757,15.52,15.52,-,No Trench/Strand for segment,no trench in Teighteen
+15006464477,15006464477,12.95,12.95,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0024,3NES-68-01-HDL-0024,13.65,0,-,No Trench/Strand for segment,zero length
+3NES-68-01-HDL-0016,3NES-68-01-HDL-0016,14.55,14.55,-,No Trench/Strand for segment,no trench in Teighteen
+15022343676,15022343676,15.18,15.18,-,No Trench/Strand for segment,no trench in Teighteen
+15022304263,15022304263,14.93,14.92,-,No Trench/Strand for segment,no trench in Teighteen
+15006465050,15006465050,15.58,15.57,-,No Trench/Strand for segment,no trench in Teighteen
+15006463862,15006463862,15.58,15.57,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0066,3NES-68-01-HDL-0066,14.6,14.6,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0160,3NES-68-01-HDL-0160,15.58,15.57,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0347,3NES-68-01-HDL-0347,1.43,0,-,No Trench/Strand for segment,zero length
+15006464419,15006464419,14.34,14.33,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0137,3NES-68-01-HDL-0137,12.32,12.32,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0084,3NES-68-01-HDL-0084,12.44,12.43,-,No Trench/Strand for segment,no trench in Teighteen
+15006464796,15006464796,13.19,14.59,-,No Trench/Strand for segment,no trench in Teighteen
+15006464931,15006464931,15.03,15.03,-,No Trench/Strand for segment,no trench in Teighteen
+15006464424,15006464424,13.36,13.36,-,No Trench/Strand for segment,no trench in Teighteen
+201851204,--,3264527.92,155.1,Third Party Pit 000000000201850127,"Unable to match cable and trench/strand end points, check the cable and trench/strand and revalidate",other tech
+3NES-68-01-HDL-0269,3NES-68-01-HDL-0269,14.62,14.62,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0097,3NES-68-01-HDL-0097,14.8,14.8,-,No Trench/Strand for segment,no trench in Teighteen
+15022331706,15022331706,14.69,13.49,-,No Trench/Strand for segment,no trench in Teighteen
+15006464878,15006464878,15.58,15.57,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0346,--,80.94,59,,"Unable to match cable and trench/strand end points, check the cable and trench/strand and revalidate",end at vsp
+3NES-68-01-HDL-0155,3NES-68-01-HDL-0155,15.03,15.02,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0230,3NES-68-01-HDL-0230,15.73,15.73,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0082,3NES-68-01-HDL-0082,13.19,12.55,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0320,3NES-68-01-HDL-0320,13.99,13.99,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0217,--,40.25,44,Third Party Pit 000000012503606829,"Unable to match cable and trench/strand end points, check the cable and trench/strand and revalidate",end at vsp
+3NES-68-01-HDL-0281,3NES-68-01-HDL-0281,8.62,30,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0036,3NES-68-01-HDL-0036,15.74,15.73,-,No Trench/Strand for segment,no trench in Teighteen
+15006456530,15006456530,14.62,14.62,-,No Trench/Strand for segment,no trench in Teighteen
+15022327792,15022327792,12.31,12.3,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0162,3NES-68-01-HDL-0162,11.63,9.5,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0013,3NES-68-01-HDL-0013,12.56,12.55,-,No Trench/Strand for segment,no trench in Teighteen
+15006456782,15006456782,15.58,15.57,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0195,3NES-68-01-HDL-0195,11.37,28,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0081,3NES-68-01-HDL-0081,13.07,13.06,-,No Trench/Strand for segment,no trench in Teighteen
+15022343656,15022343656,14.06,14.06,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0106,3NES-68-01-HDL-0106,13.19,14.89,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0246,3NES-68-01-HDL-0246,15.74,0,-,No Trench/Strand for segment,zero length
+15022342958,15022342958,19.32,14.71,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0140,3NES-68-01-HDL-0140,14.48,0,-,No Trench/Strand for segment,zero length
+3NES-68-01-HDL-0185,3NES-68-01-HDL-0185,22.13,12,-,No Trench/Strand for segment,no trench in Teighteen
+15022331690,15022331690,19.91,19.91,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0068,3NES-68-01-HDL-0068,14.76,14.76,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0043,3NES-68-01-HDL-0043,15.74,15.73,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0079,3NES-68-01-HDL-0079,14.76,0,-,No Trench/Strand for segment,zero length
+3NES-68-01-HDL-0300,3NES-68-01-HDL-0300,15.06,15.05,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0130,3NES-68-01-HDL-0130,14.49,14.48,-,No Trench/Strand for segment,no trench in Teighteen
+15006456557,15006456557,15.75,15.75,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0238,3NES-68-01-HDL-0238,15.58,15.57,-,No Trench/Strand for segment,no trench in Teighteen
+15014312854,15014312854,15.52,15.52,-,No Trench/Strand for segment,no trench in Teighteen
+15020127036,--,17.35,31,Third Party Pit 000000012503609035,"Unable to match cable and trench/strand end points, check the cable and trench/strand and revalidate",end at vsp
+3NES-68-01-HDL-0005,3NES-68-01-HDL-0005,14.92,14.92,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0173,--,22.75,32,Third Party Pit 000000012503601869,"Unable to match cable and trench/strand end points, check the cable and trench/strand and revalidate",end at vsp
+15014312935,15014312935,16.48,16.48,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0094,3NES-68-01-HDL-0094,15.91,15.91,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0074,3NES-68-01-HDL-0074,13.9,13.9,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0093,3NES-68-01-HDL-0093,12.54,0,-,No Trench/Strand for segment,zero length
+3NES-68-01-HDL-0109,3NES-68-01-HDL-0109,13.04,0,-,No Trench/Strand for segment,zero length
+3NES-68-01-HDL-0182,3NES-68-01-HDL-0182,6.77,8.4,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0116,3NES-68-01-HDL-0116,14.52,14.52,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0100,3NES-68-01-HDL-0100,16.48,16.48,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0210,3NES-68-01-HDL-0210,18.61,43,-,No Trench/Strand for segment,no trench in Teighteen
+15006456620,15006456620,14.23,14.22,-,No Trench/Strand for segment,no trench in Teighteen
+15022344174,15022344174,13.04,13.03,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0187,3NES-68-01-HDL-0187,24.87,34,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0018,3NES-68-01-HDL-0018,13.91,13.91,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0054,3NES-68-01-HDL-0054,15.01,15.01,-,No Trench/Strand for segment,no trench in Teighteen
+15006456584,15006456584,13.19,12.32,-,No Trench/Strand for segment,no trench in Teighteen
+15025603663,15025603663,12.31,12.31,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0317,3NES-68-01-HDL-0317,16.43,16.42,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0244,3NES-68-01-HDL-0244,15.05,15,-,No Trench/Strand for segment,no trench in Teighteen
+15006456401,15006456401,15.44,15.44,-,No Trench/Strand for segment,no trench in Teighteen
+15006456612,15006456612,13.7,12.92,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0299,3NES-68-01-HDL-0299,15.04,15.03,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0065,3NES-68-01-HDL-0065,14.62,0,-,No Trench/Strand for segment,zero length
+3NES-68-01-HDL-0112,3NES-68-01-HDL-0112,16.41,16.41,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0118,3NES-68-01-HDL-0118,15.58,15.57,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0252,--,38.49,41.4,Third Party Manhole 000000000200025858,"Unable to match cable and trench/strand end points, check the cable and trench/strand and revalidate",end at vsp
+15006464831,15006464831,14.45,14.45,-,No Trench/Strand for segment,no trench in Teighteen
+15006456640,15006456640,12.32,12.32,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0298,3NES-68-01-HDL-0298,14.49,0,-,No Trench/Strand for segment,zero length
+3NES-68-01-HDL-0297,3NES-68-01-HDL-0297,12.95,12.95,-,No Trench/Strand for segment,no trench in Teighteen
+15006456614,15006456614,15.58,15.57,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0343,3NES-68-01-HDL-0343,15.45,0,-,No Trench/Strand for segment,zero length
+15022304724,15022304724,15.11,15.11,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0319,3NES-68-01-HDL-0319,14.48,14.47,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0063,3NES-68-01-HDL-0063,14.92,14.92,-,No Trench/Strand for segment,no trench in Teighteen
+15020130681,15020130681,15.99,15.98,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0170,3NES-68-01-HDL-0170,15.83,12,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0215,3NES-68-01-HDL-0215,15.54,31,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0183,3NES-68-01-HDL-0183,16.48,16.48,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0316,3NES-68-01-HDL-0316,15.45,15.45,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0344,3NES-68-01-HDL-0344,15.53,0,-,No Trench/Strand for segment,zero length
+3NES-68-01-HDL-0234,3NES-68-01-HDL-0234,23.41,10,-,No Trench/Strand for segment,no trench in Teighteen
+15006456084,15006456084,13.64,13.64,-,No Trench/Strand for segment,no trench in Teighteen
+15006456615,15006456615,12.32,12.32,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0048,3NES-68-01-HDL-0048,14.75,0,-,No Trench/Strand for segment,zero length
+15022342955,15022342955,20.81,15.05,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0322,3NES-68-01-HDL-0322,1.12,0,-,No Trench/Strand for segment,zero length
+3NES-68-01-HDL-0126,3NES-68-01-HDL-0126,12.95,12.94,-,No Trench/Strand for segment,no trench in Teighteen
+15022343780,15022343780,15.11,15.11,-,No Trench/Strand for segment,no trench in Teighteen
+15006464877,15006464877,13.31,13.3,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0345,3NES-68-01-HDL-0345,34.85,0,-,No Trench/Strand for segment,zero length
+3NES-68-01-HDL-0321,3NES-68-01-HDL-0321,14.07,23,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0165,3NES-68-01-HDL-0165,14.31,24,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0301,3NES-68-01-HDL-0301,16.48,16.48,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0110,3NES-68-01-HDL-0110,15.58,15.57,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0001,3NES-68-01-HDL-0001,15.58,15.57,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0171,--,22.99,24,Third Party Pit 000000001204627556,"Unable to match cable and trench/strand end points, check the cable and trench/strand and revalidate",end at vsp
+3NES-68-01-HDL-0022,3NES-68-01-HDL-0022,14.66,14.65,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0010,3NES-68-01-HDL-0010,13.3,13.3,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0105,3NES-68-01-HDL-0105,13.19,0,-,No Trench/Strand for segment,zero length
+15025603596,15025603596,14.73,14.73,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0123,3NES-68-01-HDL-0123,12.95,12.94,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0159,3NES-68-01-HDL-0159,14.5,14.49,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0127,3NES-68-01-HDL-0127,12.95,12.94,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0232,3NES-68-01-HDL-0232,10.5,21,-,No Trench/Strand for segment,no trench in Teighteen
+15006456751,15006456751,14.62,14.62,-,No Trench/Strand for segment,no trench in Teighteen
+15006455773,15006455773,14.63,14.63,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0227,3NES-68-01-HDL-0227,14.93,10,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0086,3NES-68-01-HDL-0086,12.52,12.52,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0177,3NES-68-01-HDL-0177,7.58,15,-,No Trench/Strand for segment,no trench in Teighteen
+15006463854,15006463854,14.5,14.49,-,No Trench/Strand for segment,no trench in Teighteen
+15022345232,15022345232,13.19,15.11,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0184,3NES-68-01-HDL-0184,24.91,17,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0247,3NES-68-01-HDL-0247,13.99,13.99,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0196,3NES-68-01-HDL-0196,12.67,35,-,No Trench/Strand for segment,no trench in Teighteen
+15006465138,15006465138,14.66,14.66,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0325,--,30.04,0,Third Party Manhole 000000000200025588,"Unable to match cable and trench/strand end points, check the cable and trench/strand and revalidate",zero length
+3NES-68-01-HDL-0131,3NES-68-01-HDL-0131,13.69,0,-,No Trench/Strand for segment,zero length
+3NES-68-01-HDL-0078,3NES-68-01-HDL-0078,15.04,0,-,No Trench/Strand for segment,zero length
+3NES-68-01-HDL-0208,3NES-68-01-HDL-0208,6.68,10,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0225,3NES-68-01-HDL-0225,16,15.99,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0133,3NES-68-01-HDL-0133,13.19,12.31,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0125,3NES-68-01-HDL-0125,12.95,12.94,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0231,--,35.28,32,Third Party Pit 000000001203964458,"Unable to match cable and trench/strand end points, check the cable and trench/strand and revalidate",end at vsp
+12505321917,12505321917,14.59,14.58,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0089,3NES-68-01-HDL-0089,14.84,14.83,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0226,3NES-68-01-HDL-0226,27.64,30,-,No Trench/Strand for segment,no trench in Teighteen
+15006456281,15006456281,13.04,13.03,-,No Trench/Strand for segment,no trench in Teighteen
+15006464916,15006464916,14.48,14.47,-,No Trench/Strand for segment,no trench in Teighteen
+3NES-68-01-HDL-0181,3NES-68-01-HDL-0181,14.5,14.49,-,No Trench/Strand for segment,no trench in Teighteen
+15014312834,15014312834,15.52,15.52,-,No Trench/Strand for segment,no trench in Teighteen
